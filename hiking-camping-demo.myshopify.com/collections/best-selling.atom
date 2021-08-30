@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hiking-camping-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hiking-camping-demo.myshopify.com/collections/best-selling.atom"/>
+  <title>Hiking Camping</title>
+  <updated>2017-02-10T00:17:15-12:00</updated>
+  <author>
+    <name>Hiking Camping</name>
+  </author>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8550874253</id>
+    <published>2017-02-10T00:17:15-12:00</published>
+    <updated>2017-02-10T00:17:15-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/water-proof-camera"/>
+    <title>water proof camera</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Menty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img24.jpg?v=1480925584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menty<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            370.00 - 390.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/water-proof-camera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Menty</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8550874253</id>
+      <title>S / Gold</title>
+      <s:price currency="EUR">370.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8550874253</id>
+      <title>L / Black</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8551139405</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/golden-clock"/>
+    <title>Golden Clock</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Werty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img29.jpg?v=1480930598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Werty<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            878.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Werty</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8551139405</id>
+      <title>Silver</title>
+      <s:price currency="EUR">878.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8551139405</id>
+      <title>Gold</title>
+      <s:price currency="EUR">878.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8551039053</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/rappel-rack"/>
+    <title>Rappel Rack</title>
+    <s:type>Trekking</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img28.jpg?v=1481107210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Trekking<br>
+        <strong>Price: </strong>
+            739.00 - 789.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/rappel-rack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Nike</s:tag>
+    <s:tag>Trekking</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8551039053</id>
+      <title>M / Black</title>
+      <s:price currency="EUR">789.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8551039053</id>
+      <title>L / Green</title>
+      <s:price currency="EUR">739.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519661773</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/paring-knife"/>
+    <title>Paring Knife</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Menty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img27.jpg?v=1480928282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menty<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            180.00 - 280.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/paring-knife">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur... </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Menty</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661773</id>
+      <title>Orange / S</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661773</id>
+      <title>Black / L</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519661389</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/jump-rope"/>
+    <title>Jump Rope</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Werty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img2.jpg?v=1480481963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Werty<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            200.00 - 260.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/jump-rope">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Werty</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661389</id>
+      <title>Blue</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661389</id>
+      <title>Yellow</title>
+      <s:price currency="EUR">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519661133</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/horseshoes"/>
+    <title>Horseshoes</title>
+    <s:type>Hiking</s:type>
+    <s:vendor>Menty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img3.jpg?v=1480928932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menty<br>
+        <strong>Type: </strong>Hiking<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Hiking</s:tag>
+    <s:tag>Menty</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661133</id>
+      <title>Red</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661133</id>
+      <title>Blue</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519661133</id>
+      <title>Black</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519660941</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/ladder-golf"/>
+    <title>Ladder Golf</title>
+    <s:type>Hiking</s:type>
+    <s:vendor>Menty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img4.jpg?v=1480481957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menty<br>
+        <strong>Type: </strong>Hiking<br>
+        <strong>Price: </strong>
+            360.00 - 370.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/ladder-golf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Hiking</s:tag>
+    <s:tag>Menty</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519660941</id>
+      <title>Blue</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519660941</id>
+      <title>Red</title>
+      <s:price currency="EUR">370.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519660045</id>
+    <published>2017-02-10T00:17:14-12:00</published>
+    <updated>2017-02-10T00:17:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/hiking-bottles-holder"/>
+    <title>Hiking Bottles Holder</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Nemu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/img9.jpg?v=1480932558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nemu<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            800.00 - 850.00
+            <a href="https://hiking-camping-demo.myshopify.com/products/hiking-bottles-holder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Nemu</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519660045</id>
+      <title>M / Gold</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519660045</id>
+      <title>L / Blue</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8562391693</id>
+    <published>2017-02-10T00:17:13-12:00</published>
+    <updated>2017-02-10T00:17:13-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/designs-daypack"/>
+    <title>Designs Daypack</title>
+    <s:type>Camping</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/product-21.jpg?v=1481107782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Camping<br>
+        <strong>Price: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Nike</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8562391693</id>
+      <title>L / Blue</title>
+      <s:price currency="EUR">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8562391693</id>
+      <title>M / Black</title>
+      <s:price currency="EUR">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

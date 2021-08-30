@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hiking-camping-demo.myshopify.com	TRUE	/16285651/checkouts/14857d0c0bb8f38e65af8be7e5f06e2b	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV4TVRReFpXUXlORFJsTkRCall6Tm1aR0ZrTjJJeE1UTXpPR1k0TURVNFl3WTZCa1ZVIiwiZXhwIjoiMjAyMS0wOS0yMFQwODo1MTozNS44MzNaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--d08fe3f11261e1bf40b6a045166e71d7b63f137d
+hiking-camping-demo.myshopify.com	TRUE	/16285651	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV4TkRnMU4yUXdZekJpWWpobU16aGxOalZoWmpoaVpUZGxOV1l3Tm1VeVlnWTZCa1ZVIiwiZXhwIjoiMjAyMi0wOC0zMFQwODo1MTozNS44MzRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--0ad787ce6fa2eb084c6b2bc0bfc59658c7a90271
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	b5248dbf3bdf5ea1a2e08e22498f92b7
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart	b94ff6fad291e835e8d8a435d9f7a1a3
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1630313494
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	EUR
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	AtTzGw_1kcArbjf46AnFxhUjo_5UgZL-SnNWlfeHC6ZGxm62uxmqsPOiX1FSExVeU-AMG86D-Q8CqKDoWVGp8qMuYbO_noyXK4KvOQGrE4y1ZJHyOVLfLhWHnoaSUIFxIx1CpkSSRNpL7-8P-XOSn4Pl9DfzLPg7-QOdje_9d9g%3D
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV4TkRnMU4yUXdZekJpWWpobU16aGxOalZoWmpoaVpUZGxOV1l3Tm1VeVlnWTZCa1ZVIiwiZXhwIjoiMjAyMS0wOC0zMFQwOTo1MTozNC43MzZaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--c96e82ad6477b367bfeef99a4c499e3b0e35bba7
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-east1%3A1
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_evids	pv%3Da68cf8346f0536e4d8247a149413356b3fecabfcc720af94a37b09db2dcb9489
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	09b43d6f30152007af26e7ab975c2879
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_y	7f58f6ed-f30d-4dd7-9ae9-a2e7f4469283
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_s	3e7615d6-dbf5-46d0-a03e-9c447d161da3
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	7f58f6ed-f30d-4dd7-9ae9-a2e7f4469283
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	3e7615d6-dbf5-46d0-a03e-9c447d161da3
+hiking-camping-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

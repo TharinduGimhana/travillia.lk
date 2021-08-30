@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hiking-camping-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hiking-camping-demo.myshopify.com/collections/trail-hiking-boot.atom"/>
+  <title>Hiking Camping</title>
+  <updated>2017-02-10T00:17:13-12:00</updated>
+  <author>
+    <name>Hiking Camping</name>
+  </author>
+  <entry>
+    <id>https://hiking-camping-demo.myshopify.com/products/8519659725</id>
+    <published>2017-02-10T00:17:13-12:00</published>
+    <updated>2017-02-10T00:17:13-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://hiking-camping-demo.myshopify.com/products/footwear-shoes"/>
+    <title>Footwear Shoes</title>
+    <s:type>Trekking</s:type>
+    <s:vendor>Menty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1628/5651/products/product19.jpg?v=1480481945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Menty<br>
+        <strong>Type: </strong>Trekking<br>
+        <strong>Price: </strong>
+            685.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Etiam vehicula, sapien eget congue posuere, nisi diam mattis urna, in semper turpis nunc in odio. Aenean aliquet metus nec felis consequat luctus. Cras molestie sit amet sem sed fermentum. Ut vel purus et nunc dapibus finibus vel vitae nibh. Donec id dui fringilla, dapibus elit eget, placerat pur...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Menty</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Trekking</s:tag>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519659725</id>
+      <title>Pink / L</title>
+      <s:price currency="EUR">685.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hiking-camping-demo.myshopify.com/products/8519659725</id>
+      <title>Blue / M</title>
+      <s:price currency="EUR">685.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
